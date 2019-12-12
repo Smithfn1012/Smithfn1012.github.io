@@ -1,11 +1,11 @@
 # Site settings
 author: Felicia Smith
-title: 
+title: The Travelin' Smiths!
 header-img: img/home-bg.png
 email: smithfn1012@gmail.com
 copyright_name: Felicia Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Story-time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Smithfn1012
