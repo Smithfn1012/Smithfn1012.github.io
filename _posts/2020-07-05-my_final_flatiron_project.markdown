@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Final Flatiron Project!"
-date:       2020-07-05 21:27:58 +0000
+date:       2020-07-05 17:27:59 -0400
 permalink:  my_final_flatiron_project
 ---
 
